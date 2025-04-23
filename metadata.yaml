@@ -1,0 +1,41 @@
+_repo: Le-penseur-et-la-cretine-b-recits_75792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lenormand, H.-R. (Henri-René)
+    aliases:
+    - Lenormand, H.-R. (Henri-Rene)
+    - Lenormand, Henry-René
+    - Lenormand, Henri-René
+    birthdate: 1882
+    deathdate: 1951
+    gutenberg_agent_id: '58146'
+    url: http://www.gutenberg.org/2009/agents/58146
+    wikipedia: https://en.wikipedia.org/wiki/Henri-Ren%C3%A9_Lenormand
+description: ''
+gutenberg_issued: '2025-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75792'
+  lccn: '20016187'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=UYQMAQAAMAAJ
+pgterms:marc905: 20240921071215lenormand
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aParis :$bCrès, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Le penseur et la crétine -- Printemps marocain -- A l'ecart -- La
+  plus malheureuse -- La piémontaise -- La métisse -- L'ami des jaunes -- Le col.
+title: 'Le penseur et la crétine : $b récits'
+url: http://www.gutenberg.org/ebooks/75792
